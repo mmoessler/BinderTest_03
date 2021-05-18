@@ -1,0 +1,8 @@
+install.packages('corrplot')
+install.packages('glmnet')
+install.packages('grf')
+install.packages('tidyverse')
+install.packages('plotmo')
+install.packages('dplyr')
+install.packages('fBasics')
+install.packages('AER')
